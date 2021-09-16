@@ -33,6 +33,7 @@ Weitere Information und Dokumentationen.
 - [AGILITA BTP](https://www.agilita.ch/produkte/sap-business-technology-platform/)
 - [SAP Community](https://community.sap.com/)
 - [SAP Discovery Center](https://discovery-center.cloud.sap/)
+- [OData vom RFC](https://blogs.sap.com/2012/10/26/step-by-step-guide-to-build-an-odata-service-based-on-rfcs-part-1/)
 
 ## Support
 
