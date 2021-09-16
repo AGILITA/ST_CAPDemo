@@ -34,3 +34,6 @@ Weitere Information und Dokumentationen.
 - [SAP Community](https://community.sap.com/)
 - [SAP Discovery Center](https://discovery-center.cloud.sap/)
 
+## Support
+
+- [Kontakt](https://www.agilita.ch/kontakt/)
