@@ -32,5 +32,5 @@ Weitere Information und Dokumentationen.
 - [Cloud SDK](https://sap.github.io/cloud-sdk/)
 - [AGILITA BTP](https://www.agilita.ch/produkte/sap-business-technology-platform/)
 - [SAP Community](https://community.sap.com/)
-- [SAP Discovery Center] (https://discovery-center.cloud.sap/)
+- [SAP Discovery Center](https://discovery-center.cloud.sap/)
 
