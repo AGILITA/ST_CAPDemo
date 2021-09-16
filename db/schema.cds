@@ -1,4 +1,4 @@
-namespace com.switzerland.travel;
+namespace agilita.travel;
 using { Currency, managed, sap.common.CodeList } from '@sap/cds/common';
 
 entity Destinations: managed {

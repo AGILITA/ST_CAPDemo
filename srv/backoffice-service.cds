@@ -1,4 +1,4 @@
-using { com.switzerland.travel as my} from '../db/schema';
+using { agilita.travel as my} from '../db/schema';
 
 service backoffice {
 
