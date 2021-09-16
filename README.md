@@ -25,7 +25,7 @@ Workshop Beispiel einer CAP Anwendung.
 
 ## Links und Blog Posts
 
-For more information see blog posts below:
+Weitere Information und Dokumentationen.
 
 - [CAP Dokumentation](https://cap.cloud.sap/docs/)
 - [Fiori Elements Dokumentation](https://ui5.sap.com/#/topic/03265b0408e2432c9571d6b3feb6b1fd)
